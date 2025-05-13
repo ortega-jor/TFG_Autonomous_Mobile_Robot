@@ -44,6 +44,6 @@ The system is supported by:
 
 ##  Author
 
-**Jorge Ortega Camazón**
-Bachelor’s Degree in Industrial Electronics and Automation Engineering
+**Jorge Ortega Camazón**  
+Bachelor’s Degree in Industrial Electronics and Automation Engineering  
 Nominated Thesis: Development of a Low-Cost Multifunctional Autonomous Robot
